@@ -1,1 +1,28 @@
-First release
+# Psychological & Orthophonic Follow-up System
+
+![Downloads](https://img.shields.io/github/downloads/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System/total.svg)
+![Latest Release](https://img.shields.io/github/v/release/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System)
+![Stars](https://img.shields.io/github/stars/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System)
+
+---
+
+## 📌 About the Project
+This system is designed to help in psychological and orthophonic follow-up management.  
+It provides tools for organizing, tracking, and improving follow-up processes in a structured way.
+
+---
+
+## 🚀 First Release
+This is the initial version of the project.  
+More updates and features will be added gradually.
+
+---
+
+## 📦 Download
+Go to the **Releases section** to download the latest version:
+👉 https://github.com/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System/releases
+
+---
+
+## 🛠️ Status
+🟢 Active development
