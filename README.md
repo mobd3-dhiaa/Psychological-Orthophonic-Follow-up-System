@@ -12,9 +12,8 @@ It provides tools for organizing, tracking, and improving follow-up processes in
 
 ---
 
-## 🚀 First Release
-This is the initial version of the project.  
-More updates and features will be added gradually.
+## 🚀 second Release
+this is improved release with fixed bugs and better UI - Version: 1.1v
 
 ---
 
