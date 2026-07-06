@@ -1,7 +1,7 @@
 # Psychological & Orthophonic Follow-up System
 
 ![Downloads](https://img.shields.io/github/downloads/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System/total.svg)
-![Downloads](https://img.shields.io/github/downloads/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System/total.svg?cacheSeconds=3600)
+![Downloads](https://img.shields.io/github/downloads/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System/total.svg?cacheSeconds=30)
 ![Latest Release](https://img.shields.io/github/v/release/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System)
 ![Stars](https://img.shields.io/github/stars/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System)
 ![GitHub all releases](https://img.shields.io/github/downloads/mobd3-dhiaa/Psychological-Orthophonic-Follow-up-System/total)
